@@ -34,4 +34,4 @@ Add to `~/.fluxbox/keys`
 
     None XF86AudioRaiseVolume :execCommand pavol +
     None XF86AudioLowerVolume :execCommand pavol -
-    None XF86AudioMute :execCommand pavol
+    None XF86AudioMute :execCommand pavol !
